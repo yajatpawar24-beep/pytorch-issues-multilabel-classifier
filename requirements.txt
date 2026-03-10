@@ -1,0 +1,13 @@
+pyarrow==14.0.1
+datasets==2.18.0
+transformers==4.44.0
+accelerate==0.33.0
+requests
+pandas
+numpy
+torch
+scikit-learn
+tqdm
+
+# Testing
+pytest
